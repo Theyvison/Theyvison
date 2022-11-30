@@ -4,8 +4,8 @@
 - 💻 Aprendendo HTML, CSS JS
 
 ##
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theyvison&theme=dark)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyvison&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theyvison&theme=dark)](https://github.com/theyvison)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyvison&layout=compact&theme=dark)](https://github.com/theyvison) 
 ##
   
 <div style="display: inline_block"><br>
