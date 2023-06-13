@@ -1,4 +1,4 @@
-# 👋🏻 Olá eu sou Theyvison, estudante de desenvolvimento Front-End
+# 👋🏻 Olá eu sou Theyvison, estudante de desenvolvimento Web
 
 - 📖 Atualmente estudando desenvolvimento Web
 - 💻 Aprendendo HTML, CSS JS
