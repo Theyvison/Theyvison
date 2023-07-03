@@ -1,9 +1,9 @@
 # 👋🏻 Olá eu sou Theyvison, estudante de desenvolvimento Web
 
-- 📖 Atualmente estudando desenvolvimento Web
-- 🏫 S.I IFCE Crato
-- 💻 HTML, CSS, JS, Node
-- 💻 Aprendendo React, Typescript, Express, Mongodb ... 
+- 💻 Atualmente estudando desenvolvimento Web
+- 🏫 S.I IFCE
+- ⌨️ HTML, CSS, JS, Node
+- 📖 Aprendendo React, Typescript, Express, Mongodb ... 
 ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theyvison&theme=dark)](https://github.com/theyvison)</br>
 ##
