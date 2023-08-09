@@ -5,7 +5,7 @@
 - ⌨️ HTML, CSS, JS, Node
 - 📖 Aprendendo React, Typescript, Express, Mongodb ... 
 ##
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theyvison&theme=dark)](https://github.com/theyvison)</br>
+
 ##
   
 <div style="display: inline_block"><br>
