@@ -2,22 +2,29 @@
 
 - 💻 Atualmente estudando desenvolvimento Web
 - 🏫 S.I IFCE
-- ⌨️ HTML, CSS, JS, Node
-- 📖 Aprendendo React, Typescript, Express, Mongodb ... 
-##
+- ⌨️ HTML, CSS, Tailwind, JS, React
+- 📖 Aprendendo Node, Typescript, Express, Mongodb, SQLite ...
 
 ##
-  
-<div style="display: inline_block"><br>
-    <img align="center" alt="theyvison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="theyvison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="theyvison-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-    <img align="center" alt="theyvison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="theyvison-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="theyvison-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="theyvison-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="theyvison-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="theyvison-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-   
-  
-</div>
+
+![Theyvison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theyvison&show_icons=true&theme=dark)
+##
+
+Main skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://github.com/Theyvison/)
+
+##
+
+Other skills
+
+[![Other Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,sqlite)](https://github.com/Theyvison/)
+
+##
+
+Social media
+
+ <div>
+   <a href="https://instagram.com/thetheyvison" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/theyvison/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
