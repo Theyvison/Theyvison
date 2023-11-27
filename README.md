@@ -10,19 +10,19 @@
 ![Theyvison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theyvison&show_icons=true&theme=dark)
 ##
 
-Main skills
+Habilidades principais 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://github.com/Theyvison/)
 
 ##
 
-Other skills
+Outras habilidades 
 
 [![Other Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,sqlite)](https://github.com/Theyvison/)
 
 ##
 
-Social media
+Redes sociais 
 
  <div>
    <a href="https://instagram.com/th3yvison" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
