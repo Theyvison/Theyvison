@@ -1,7 +1,6 @@
 # 👋🏻 Olá eu sou Theyvison, estudante de desenvolvimento Web
 
 - 💻 Atualmente estudando desenvolvimento Web
-- 🏫 S.I IFCE
 - ⌨️ HTML, CSS, Tailwind, JS, React
 - 📖 Aprendendo Node, Typescript, Express, Mongodb, SQLite ...
 
