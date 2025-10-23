@@ -1,7 +1,7 @@
-# 👋🏻 Olá eu sou Theyvison, estudante de desenvolvimento Web
+# 👋🏻 Olá eu sou Theyvison, desenvolvedor fullstack
 
-- 💻 Atualmente estudando desenvolvimento Web
-- ⌨️ HTML, CSS, Tailwind, JS, React
+- 💻 Atualmente estudando desenvolvimento fullstack
+- ⌨️ HTML, CSS, Tailwind, JS, React, Node, Java, Springboot
 - 📖 Aprendendo Node, Typescript, Express, Mongodb, SQLite ...
 
 ##
@@ -11,7 +11,7 @@
 
 Habilidades principais 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://github.com/Theyvison/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,java,spring)](https://github.com/Theyvison/)
 
 ##
 
